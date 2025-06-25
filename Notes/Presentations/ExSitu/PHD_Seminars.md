@@ -1,6 +1,7 @@
 # Beyond the Static Sketch: Augmenting Designers' Visual Vocabulary for Teaching and Presentation - Capucine Nghiem (17/06/2025)
 
-sketches as ideation tools (horizontal/vertical)
+sketches as ideation tools 
+..(horizontal/vertical)
 sketches as communication tools 
 visual vocabulary in teaching (line width, annotations, lacking info if unimportant…) 
 § sld 7 titles cut
