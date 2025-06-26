@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/reading_notes/fiche_hollan_et_al_distributed_cognition.md",
+                "file": "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fiche_hollan_et_al_distributed_cognition"
+              "title": "Fiche_Hollan_et_al_Distributed_Cognition"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Articles/reading_notes/fiche_hollan_et_al_distributed_cognition.md",
+            "file": "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +169,8 @@
   },
   "active": "4a3b7125980757e5",
   "lastOpenFiles": [
+    "Articles/reading_notes/fiche_maudet_2017_beyond_grids.md",
+    "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
     "Articles/rest.md",
     "Test depuis tel.md",
     "/Articles/rest.md",

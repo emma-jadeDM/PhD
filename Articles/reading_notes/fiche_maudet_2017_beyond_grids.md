@@ -1,4 +1,4 @@
-﻿*État de l’art, RÈF-003*
+*État de l’art, RÈF-003*
 # **Résumé**
 1. ## Problème traité
    Les outils de mise en page traditionnels s’appuient sur la grille et sous entendent que la production est statique. \
