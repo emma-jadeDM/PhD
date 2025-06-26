@@ -1,0 +1,2 @@
+- (Constraints CSS)[https://gss.github.io/guides/ccss]
+    - Repenser la façon dont le CSS est contraint, par exemple avec titre <= 6px au lieu d'une valeur fixe. Relations entre les variables. 
