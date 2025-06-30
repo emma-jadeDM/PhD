@@ -102,4 +102,16 @@ Users based their first actions on common practices, perhaps because they recogn
 
 The article suggest that it'd be relevant to design instruments/tools to interact with an object's proprety instead of trying to multiplying the objects they can interact with. 
 
+Modeling tools to interact with *propreties* and not *objects*.
+
+E.g. A size instrument could re-size margins and text instead of having margins being re-sized by a ruler and text by a textual input. 
+
+TR :
+
+- for grounding interfaces for *appropriation* and *creative use*. 
+- real-world cognitive abilities
+- complements hci litterature (affordances, mediated action)
+- cumulating knowledge of abstract principles/laws in digital environment + of digital objects' propreties 
+
+
 
