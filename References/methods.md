@@ -27,3 +27,8 @@
 
 - RDD en économétrie (Régression sur discontinuité (Regression discontinuity design))
     - Comparaison dans le temps de deux groupes avec une variation, sans avoir besoin d'un groupe témoin (mal expliqué ici)
+
+
+## Coding
+
+- video annotation for coding video data

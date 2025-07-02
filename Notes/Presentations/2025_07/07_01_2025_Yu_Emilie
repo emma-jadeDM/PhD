@@ -1,0 +1,104 @@
+#
+
+semantic distance btwn person goal/meaning of computer program
+-> how to design a representation to match how ppl think?
+-> how to avoid letting the representation constraint how ppl work?
+
+£ did u abstract theoritical replies to this question? (Answer: that's what she'd like to do. not general yet.)
+
+Li et al. Beyond the artifact, 2023
+
+Using existing computer abilities to design new ways for computer to be a expressive tool:
+- Jacobs et al, chi 2018 
+- Bourgault et al Chi 2023
+
+Starting from algorithms, developing new computer capabilities to make the computer helpful (to novice users?):
+- Teddy (Igarashi et al. SIGGRAPH 1999)
+- Smith et al SIGGHRAPH 23
+- Carpentry compiler, wu et al. SIGGRAPH 2019
+
+Looking for a middle ground-> expressive representation (w/ data strcture, interaction modalities and behaviours)
+
+- extend the practice of skilled practicionner instead of replacing
+- allow creation of outcomes presenting new aesthetics or practical qualities
+- formalize methods to design systems for creative work
+
+## Case-studies project:
+
+### Video doodles
+
+drawing/keyframing/tracking (existing practices)
+tracking -> lacks precise control, no perspective efect, hard to do occlusion
+
+new representation -> 3D scene-aware canva
+
+time spent refining and tweaking, tracking is made by system so ppl spend less time on that, more on their drawings
+
+£ mixed approaches depending on how good tracking work: i dont have to fix, i fix a bit, i do it all manually in the end
+
+§ is it an issue? creatives are into controlling their tools
+
+£ annotation tool? for qualitative analysis? 
+
+### VR painting
+
+§ talking on videos showing practices aspects (e.g. showing the way stroked are drawn, manipulated, etc. in a reduced exemple)
+
+expressive representation inspired by existing representation (layers)
+
+*subtrate layer* defines geometry, *appearance layer* degines colors -> the final result is at the intersection of both
+
+introducing layers: generative bc it's a novel way of workign -> new ideas, new ways of working and creating etc. not as analogic as 2D (celluloid layers into digital layers) because layers are considered as a grouping mechanism but it isn't layers in the strict sense ig
+
+appearence layer is made of objects one can reify, modify, move etc.
+
+### crochet textiles/manual crafts
+
+granny squares as modules, garments as set of tiles on a 3D body
+
+re-using tiles to make multiple garments
+
+challenges: permanent assembly, finding fitting pattterns, assembly time (time isnt that much of an issue but might hinder want for re-making a garment)
+
+dvp non permanent assembly technique -> 3D printed connectors
+
+enable generation of custom tile based patterns -> tile as a base unit to design garment templates. varying parametters to have diff garments, adapting to diff tiles & body sizes depending on the size of the tiles (either going from the garment size u want or from the tiles' size)
+
+support the manual re-assembly -> preserving as many large areas as possible, only remiving seams where it's needed, through planning. algorithm : flattend the farments to a 2D shape and find an efficient reassembly plane by considering tiles as pixels in a 3D grid -> system shows how it will b so one can know what to expect
+
+computational tools supporting manual crafts by introducing new functions while also preserving techniques and aesthetics
+
+
+
+### human-robot collaborative craft
+
+programming-by-definition (simple tasks) vs code-based robot programming (less direct material feedback)
+
+§ why is it always two things... (e.g. diff advantages and disaventages, often opposed)
+
+cobot + end-effector attachment (physical feedback, recording tasks that can be repeated)
+
+definition of 7 repetition modes + compund actions (made of several actions, e.g. drawing 6 petals into drawing a flower)
+
+-> demonstration in the cntxt of ceramics (mold w/ repetition around a point, slab mold w/ repetition of a gesture as a pattern, 2 part mold w/ symmetry repetion...)
+
+representation bridging physical/digital domains enabling quick iteration between design, robotic fabrication & manual fab
+
+# conclusion
+
+representation as common ground to combine expressive human behaviour w/ computational behavior
+
+systems that felt expressive & leverage ppl skills
+
+team.inria.fr/graphdeco
+
+
+
+
+§ studying practices questions
+
+- itw, tutorials, workflow video and software experience (doodles)
+- vr formal, itw 4ppl, guided intw throihhj a specific project they worked on (best method?)
+- working with a practitionner, learning through her experience, looking at books & pattern to abstract how pattenrs work
+- iwn with practionners using digital tools. formative study. speculation abt the robot, what it could be, where do u see compiutationnal power being useful in ur workflow?
+- knowing the craft helps having intuition but it's useful to have ppl talling u abt their practice etc
