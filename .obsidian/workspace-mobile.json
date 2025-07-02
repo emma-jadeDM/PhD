@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
+                "file": "ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche_Hollan_et_al_Distributed_Cognition"
+              "title": "ToDo"
             }
           }
         ],
@@ -167,35 +167,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a3b7125980757e5",
+  "active": "00f0f9709a23881d",
   "lastOpenFiles": [
+    "Notes/checkoutlater.md",
+    "Notes/Presentations/PhD_Defenses/2025_07_02_Capucine_Nghiem_PhD_Defense.md",
+    "Notes/Presentations/Other_Perspectives/2025_06/26_06_computing_with_limits.md",
+    "Notes/Presentations/2025_07/07_01_2025_Yu_Emilie",
+    "Articles/reading_notes/fiche_leigh_star_2010_this_is_not_a_boundary_object.md",
+    "Articles/pdfs/leighstar2010.pdf",
+    "/References/methods.md",
+    "/References",
+    "/Notes/training_i_lack.md",
+    "/Notes/checkoutlater.md",
+    "/Notes/Presentations/PhD_Defenses/2025_07_02_Capucine_Nghiem_PhD_Defense.md",
+    "/Notes/Presentations/Other_Perspectives/2025_06/26_06_computing_with_limits.md",
+    "/Notes/Presentations/2025_07/07_01_2025_Yu_Emilie",
+    "/Articles/reading_notes/fiche_renom_2022_technical_reasoning_in_digital_tool_use.md",
+    "/Articles/reading_notes/fiche_leigh_star_2010_this_is_not_a_boundary_object.md",
+    "/Articles/reading_notes/fiche_beaudouin-lafon_2000_instrumental_interaction.md",
+    "Articles/reading_notes/fiche_beaudouin-lafon_2000_instrumental_interaction.md",
+    "/Articles/reading_notes",
+    "/Articles/pdfs/leighstar2010.pdf",
+    "Notes/Presentations/PhD_Defenses",
+    "Notes/Presentations/Other_Perspectives/2025_06",
+    "Notes/Presentations/Other_Perspectives",
+    "/Notes/Presentations/PhD_Defenses",
+    "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
     "ToDo.md",
     "24_05_2025_Martin_ExSitu_PicNic.md",
     "References/methods.md",
     "Notes/training_i_lack.md",
     "/ToDo.md",
-    "/References/methods.md",
     "/References/css.md",
     "References/css.md",
-    "/References",
-    "/Notes/training_i_lack.md",
     "/Notes/Conversations/2025_06/Tricaud_Martin_pique_nique_exsitu.md",
-    "/Notes/Conversations/2025_06",
-    "/Notes/Conversations",
-    "/Notes",
-    "/Articles/reading_notes/fiche_renom_2022_technical_reasoning_in_digital_tool_use.md",
     "Articles/reading_notes/fiche_renom_2022_technical_reasoning_in_digital_tool_use.md",
-    "/Articles/reading_notes",
-    "/Articles",
-    "Notes/Conversations/2025_06",
-    "Articles/reading_notes/Fiche_Hollan_et_al_Distributed_Cognition.md",
-    "Notes/Conversations",
     "Articles/reading_notes/fiche_maudet_2017_beyond_grids.md",
     "Articles/rest.md",
-    "Test depuis tel.md",
-    "/Articles/rest.md",
-    "Notes/Presentations/ExSitu/PHD_Seminars.md",
-    "/Articles/rest.txt",
-    "Articles/rest.txt"
+    "Test depuis tel.md"
   ]
 }
