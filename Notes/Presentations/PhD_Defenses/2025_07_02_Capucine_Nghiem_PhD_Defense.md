@@ -29,4 +29,11 @@ Hua et al., Developing a Taxonomy for Freehand Sketching in Design (thinking vs 
 
 -> in industrial design there's already a bit of a style going on... sketches of participants were diff..
 
-£ we can see that ppl have developped specific styles/types of sketching. do u think it's bc they had intrinsinc constraints in their materials? and then we mimic that on a computer, but there are other constraints in computers? 
+£ we can see that ppl have developped specific styles/types of sketching. do u think it's bc they had intrinsinc constraints in their materials (e.g. paper)? and then we mimic that on a computer, but there are other constraints in computers? 
+
+
+£ a tool for only one skill? users mastering the skill before mastering the tool? a limited use case?
+
+£ speech control to dimonish shifts of control (btwn using pen/stop play video)
+
+£ integrating feedback?
